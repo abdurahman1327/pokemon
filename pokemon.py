@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 import pandas as pd
 import requests
-import IPython.display as ipd
 import numpy as np
 
 st.title("Pokemon Explorer!")
